@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://imgur.com/a/BmRfyD0">
+<img align="right" width="250px" style="margin-top:-20px" src="https://pbs.twimg.com/profile_images/1501351887534235652/DHAKhavf_400x400.jpg">
 </br>
 </br>
 <div dsplay="inline-block">
@@ -7,15 +7,17 @@
     <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/tvnergal">
-    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Twitter-logo.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Twitter-logo.png" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/caio-lima-804b29175/">
-    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin" style="vertical-align:top;">
+    <img align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin" style="vertical-align:top;">
   </a>
   <a href="https://www.twitch.tv/tvnergal/">
-    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Twitch_icon_2012.svg" alt="twitch" style="vertical-align:top;">
+    <img align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Twitch_icon_2012.svg" alt="twitch" style="vertical-align:top;">
   </a>
 </div>
+
+
 </br>
 </br>
 Olá Devs!!
