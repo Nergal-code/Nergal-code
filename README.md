@@ -19,7 +19,7 @@
 </br>
 </br>
 ## Olá!!
-Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
+Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, trabalho com tecnologia a 5 anos!, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
@@ -43,12 +43,12 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Tutor de Programação do Curso Eng. Front-End da EBAC
- ### Estudando atualmente, Programação, Testes , Python, na rota para me tornar um Engenheiro de Software;</p>
- <p align="left">🎮 Nos tempo livre sou metido a blogueiro e Streamer pode me acompanhar pelo <a href="https://www.instagram.com/tvnergal/">Instagram</a> e no <a href="https://dev.to/nergalcode/">Blog</a>. Segue lá minha jornada!!</p>
- <p align="left">☕🎮 Amo um bom cafézinho, apaixonado por games e faço piadas ruins quando há pessoas por perto.</p>
+ <p align="left"> 📚 Tutor de Programação do Curso Eng. Front-End da EBAC, 👨‍💻Analista de TI Pleno , 🎭Co-Fundador do MASK STUDIOS, 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas
+ </br>
+ ### 📚 Estudando atualmente, Programação, Testes , Python, na rota para me tornar um Engenheiro de Software;</p>
+ <p align="left">🎮 Nos tempo livre sou metido a blogueiro e Streamer pode me acompanhar pelo <a href="https://www.instagram.com/tvnergal/">Instagram</a> e no meu <a href="https://dev.to/nergalcode/">Blog pessoal</a>. Segue lá minha jornada!!</p>
+ <p align="left">☕🎮 Amo um bom cafézinho, apaixonado por games e faço piadas ruins quando há humanos por perto.</p>
 </div>
-
 
 </br>
 
@@ -57,7 +57,7 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <a href="https://www.linkedin.com/in/caio-lima-804b29175/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://dev.to/nergalcode/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
-##
+###
 <p align="center">
 <a href="https://github.com/Nergal-code/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nergal-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
