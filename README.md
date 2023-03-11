@@ -1,29 +1,28 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://imgur.com/fN4FU8h">
-
+<img align="right" width="250px" style="margin-top:-20px" src="https://imgur.com/a/BmRfyD0">
 </br>
 </br>
-
 <div dsplay="inline-block">
- 
  <h1 align="left">Caio Lima</h1>
  <a href="https://www.instagram.com/tvnergal/">
-    <img align="left" width="80px" src="https://imgur.com/gallery/ZXsR7vA" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/tvnergal">
-    <img align="left" width="80px" src="https://imgur.com/gallery/xlI1TEw" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/WLA_icon_twitter.svg" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/caio-lima-804b29175/">
-    <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin" style="vertical-align:top;">
+  </a>
+  <a href="https://www.twitch.tv/tvnergal/">
+    <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Twitch_icon_2012.svg" alt="twitch" style="vertical-align:top;">
   </a>
 </div>
 </br>
 </br>
-## Olá!!
+## Olá Devs!!
 Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, trabalho com tecnologia a 5 anos!, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
-
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://imgur.com/efHQn67">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -58,7 +57,6 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <a href="https://twitter.com/TvNergal" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/caio-lima-804b29175/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://dev.to/nergalcode/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
 ###
 <p align="center">
 <a href="https://github.com/Nergal-code/>
