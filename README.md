@@ -37,7 +37,7 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-</br>
+
 
 ### 🖥️Atualmente aprendendo:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
@@ -45,10 +45,8 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySql"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
-</br>
 <div display="inline-block">
- 
- <p align="left"> 
+<p align="left"> 
   
 📚 Tutor de Programação do Curso Eng. Front-End da EBAC, 👨‍💻Analista de TI Pleno , 🎭Co-Fundador do MASK STUDIOS, 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas
 
@@ -60,8 +58,9 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <a href="https://twitter.com/TvNergal" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/caio-lima-804b29175/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://dev.to/nergalcode/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+
 <p align="center">
- 
+
 <a href="https://github.com/Nergal-code/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nergal-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nergal-code&layout=compact&langs_count=8&theme=tokyonight"/>
