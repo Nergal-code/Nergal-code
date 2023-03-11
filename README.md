@@ -16,13 +16,9 @@
     <img width="80px" src="https://imgur.com/fN4FU8h" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
-
-
 </br>
 </br>
-
-## Hello there!!
-
+## Olá!!
 Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -38,21 +34,20 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 </br>
 </br>
 ### 🖥️Atualmente aprendendo:
+</br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title = "Unity"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySql"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
-
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Tutor de Programação do Curso Eng. Front-End da EBAC//
- ##  Estudando atualmente, Programação, Testes , Python, na rota para me tornar um Engenheiro de Software;</p>
+ <p align="left">📚 Tutor de Programação do Curso Eng. Front-End da EBAC
+ ### Estudando atualmente, Programação, Testes , Python, na rota para me tornar um Engenheiro de Software;</p>
  <p align="left">🎮 Nos tempo livre sou metido a blogueiro e Streamer pode me acompanhar pelo <a href="https://www.instagram.com/tvnergal/">Instagram</a> e no <a href="https://dev.to/nergalcode/">Blog</a>. Segue lá minha jornada!!</p>
  <p align="left">☕🎮 Amo um bom cafézinho, apaixonado por games e faço piadas ruins quando há pessoas por perto.</p>
 </div>
-
 
 
 </br>
