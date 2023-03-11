@@ -7,7 +7,7 @@
     <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/tvnergal">
-    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/WLA_icon_twitter.svg" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Twitter-logo.png" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/caio-lima-804b29175/">
     <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin" style="vertical-align:top;">
