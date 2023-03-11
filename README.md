@@ -4,21 +4,21 @@
 <div dsplay="inline-block">
  <h1 align="left">Caio Lima</h1>
  <a href="https://www.instagram.com/tvnergal/">
-    <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/tvnergal">
-    <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/WLA_icon_twitter.svg" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/WLA_icon_twitter.svg" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/caio-lima-804b29175/">
-    <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin" style="vertical-align:top;">
+    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin" style="vertical-align:top;">
   </a>
   <a href="https://www.twitch.tv/tvnergal/">
-    <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Twitch_icon_2012.svg" alt="twitch" style="vertical-align:top;">
+    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Twitch_icon_2012.svg" alt="twitch" style="vertical-align:top;">
   </a>
 </div>
 </br>
 </br>
-## Olá Devs!!
+Olá Devs!!
 Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, trabalho com tecnologia a 5 anos!, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -44,9 +44,9 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 </br>
 <div display="inline-block">
  <p align="left"> 
-### 📚 Tutor de Programação do Curso Eng. Front-End da EBAC, 👨‍💻Analista de TI Pleno , 🎭Co-Fundador do MASK STUDIOS, 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas
+📚 Tutor de Programação do Curso Eng. Front-End da EBAC, 👨‍💻Analista de TI Pleno , 🎭Co-Fundador do MASK STUDIOS, 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas
  </br>
- ### 📚 Estudando atualmente, Programação, Testes , Python, na rota para me tornar um Engenheiro de Software;</p>
+ 📚 Estudando atualmente, Programação, Testes , Python, na rota para me tornar um Engenheiro de Software;</p>
  <p align="left">🎮 Nos tempo livre sou metido a blogueiro e Streamer pode me acompanhar pelo <a href="https://www.instagram.com/tvnergal/">Instagram</a> e no meu <a href="https://dev.to/nergalcode/">Blog pessoal</a>. Segue lá minha jornada!!</p>
  <p align="left">☕🎮 Amo um bom cafézinho, apaixonado por games e faço piadas ruins quando há humanos por perto.</p>
 </div>
