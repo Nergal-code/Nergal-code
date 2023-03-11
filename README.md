@@ -1,10 +1,10 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://pbs.twimg.com/profile_images/1501351887534235652/DHAKhavf_400x400.jpg">
+<img align="right" width="250px" style="margin-top:-20px" src="">
 </br>
 </br>
 <div dsplay="inline-block">
- <h1 align="left">Caio Lima</h1>
+ <h1 align="left">Caio da Silva Lima</h1>
  <a href="https://www.instagram.com/tvnergal/">
-    <img align="left" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/tvnergal">
     <img align="left" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Twitter-logo.png" alt="twitter" style="vertical-align:top;">
