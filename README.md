@@ -13,7 +13,7 @@
     <img align="left" width="80px" src="https://imgur.com/gallery/xlI1TEw" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/caio-lima-804b29175/">
-    <img width="80px" src="https://imgur.com/fN4FU8h" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 </br>
@@ -36,14 +36,16 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 ### 🖥️Atualmente aprendendo:
 </br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title = "Unity"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title = "Unity"/>
+<i class="devicon-unity-original-wordmark"></i></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySql"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
 </br>
 </br>
 <div display="inline-block">
- <p align="left"> 📚 Tutor de Programação do Curso Eng. Front-End da EBAC, 👨‍💻Analista de TI Pleno , 🎭Co-Fundador do MASK STUDIOS, 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas
+ <p align="left"> 
+### 📚 Tutor de Programação do Curso Eng. Front-End da EBAC, 👨‍💻Analista de TI Pleno , 🎭Co-Fundador do MASK STUDIOS, 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas
  </br>
  ### 📚 Estudando atualmente, Programação, Testes , Python, na rota para me tornar um Engenheiro de Software;</p>
  <p align="left">🎮 Nos tempo livre sou metido a blogueiro e Streamer pode me acompanhar pelo <a href="https://www.instagram.com/tvnergal/">Instagram</a> e no meu <a href="https://dev.to/nergalcode/">Blog pessoal</a>. Segue lá minha jornada!!</p>
