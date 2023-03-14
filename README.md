@@ -61,7 +61,7 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <p align="center">
 
 <a href="https://github.com/Nergal-code">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nergal-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nergal-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nergal-code&layout=compact&langs_count=8&theme=tokyonight"/>
  <p align="center">
 </a>
