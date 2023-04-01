@@ -2,7 +2,7 @@
 </br>
 </br>
 <div dsplay="inline-block">
- <h1 align="left">Caio da Silva Lima</h1>
+ <h1 align="left">Caio Lima</h1>
  <a href="https://www.instagram.com/tvnergal/">
     <img align="left" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" style="vertical-align:top;">
   </a> 
