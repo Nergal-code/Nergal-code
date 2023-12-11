@@ -47,7 +47,7 @@ Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <div display="inline-block">
 
   
-📚 Tutor de Programação na EBAC, 👨‍💻Analista de TI , Fundador da Mugen Solutions  📚 , 🧑‍🎓Graduando em Análise e Desenvolvimento de Sistemas - UNICSUL
+📚 Tutor de Programação na EBAC, , Fundador da Mugen Solutions  📚 , 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas - UNICSUL
 
  📚 Estudando atualmente, estudando para me tornar um Engenheiro de Software;</p>
  <p align="left">🎮 Nos tempo livre sou metido a blogueiro e Streamer pode me acompanhar pelo <a href="https://www.instagram.com/tvnergal/">Instagram</a> e no meu <a href="https://dev.to/nergalcode/">Blog pessoal</a>. Segue lá minha jornada!!</p>
