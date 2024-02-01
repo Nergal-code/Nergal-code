@@ -23,7 +23,7 @@
 
 </br>
 Olá Devs!!
-Tenho 27 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, trabalho com tecnologia a 5 anos!, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
+Tenho 28 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, trabalho com tecnologia a 5 anos!, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
 <p align="center">
  
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
