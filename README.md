@@ -22,8 +22,9 @@
 
 
 </br>
-Olá Devs!!
-Tenho 28 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me considero um intermediário no universo da programação, trabalho com tecnologia a 5 anos!, aprendendo algumas coisas na força do ódio, estou em uma jornada para me tornar um Engenheiro de Software!
+👋 Olá, sou um desenvolvedor com 5 anos de experiência em tecnologia e uma grande paixão por programação. Atualmente, estou focado em dois campos desafiadores e empolgantes: Inteligência Artificial e Desenvolvimento de Games. Minha jornada como desenvolvedor inclui a busca contínua por novos conhecimentos e melhorias, sempre com o objetivo de me tornar Engenheiro de Software.
+
+🎯 Com base em São Paulo, estou sempre aberto a novos desafios, colaborações e oportunidades para criar soluções impactantes. Vamos transformar ideias em realidade!
 <p align="center">
  
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
@@ -47,11 +48,9 @@ Tenho 28 anos, Atualmente moro em São Paulo amo a área de tecnologia! Me consi
 <div display="inline-block">
 
   
-📚 Tutor de Programação na EBAC, , Fundador da Mugen Solutions  📚 , 🧑‍🎓Graduado em Análise e Desenvolvimento de Sistemas - UNICSUL
-
- 📚 Estudando atualmente, estudando para me tornar um Engenheiro de Software;</p>
- <p align="left">🎮 Nos tempo livre sou metido a blogueiro e Streamer pode me acompanhar pelo <a href="https://www.instagram.com/tvnergal/">Instagram</a> e no meu <a href="https://dev.to/nergalcode/">Blog pessoal</a>. Segue lá minha jornada!!</p>
- <p align="left">☕🎮 Amo um bom cafézinho, apaixonado por games e faço piadas ruins quando há humanos por perto.</p>
+📚 Tutor de Programação na EBAC, Fundador da Mugen Solutions, e Graduado em Análise e Desenvolvimento de Sistemas pela UNICSUL. Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial e Desenvolvimento de Games, com o objetivo de integrar essas áreas ao meu desenvolvimento como Engenheiro de Software;</p>
+ <p align="left">🎮 Nos meus momentos livres, gosto de codar, estudar coisas novas, jogar e, muito de vez em quando, fazer uma stream.<a href="https://www.instagram.com/tvnergal/">Instagram</a> e no meu <a href="https://dev.to/nergalcode/">Blog pessoal</a>. Segue lá minha jornada!!</p>
+ <p align="left">☕ Apaixonado por café, games, e sempre com piadas ruins prontas quando estou perto de pessoas.</p>
 </div>
 <a href="https://www.instagram.com/tvnergal/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/TvNergal" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
