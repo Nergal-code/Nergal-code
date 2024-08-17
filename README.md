@@ -50,7 +50,8 @@ Atualmente, estou focado em dois campos desafiadores e empolgantes: Inteligênci
 
   
 📚 Tutor de Programação na EBAC, Fundador da Mugen Solutions, e Graduado em Análise e Desenvolvimento de Sistemas pela UNICSUL. Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial e Desenvolvimento de Games, com o objetivo de integrar essas áreas ao meu desenvolvimento como Engenheiro de Software;</p>
- <p align="left">🎮 Nos meus momentos livres, gosto de codar, estudar coisas novas, jogar e, muito de vez em quando, fazer uma stream.<a href="https://www.instagram.com/tvnergal/">Instagram</a> e no meu <a href="https://dev.to/nergalcode/">Blog pessoal</a>. Segue lá minha jornada!!</p>
+ <p align="left">🎮 Nos meus momentos livres, gosto de codar, estudar coisas novas, jogar e, muito de vez em quando, fazer uma stream.
+ <a href="https://www.instagram.com/tvnergal/">Instagram</a> 
  <p align="left">☕ Apaixonado por café, games, e sempre com piadas ruins prontas quando estou perto de pessoas.</p>
 </div>
 <a href="https://www.instagram.com/tvnergal/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
