@@ -22,7 +22,8 @@
 
 
 </br>
-👋 Olá, sou um desenvolvedor com 5 anos de experiência em tecnologia e uma grande paixão por programação. Atualmente, estou focado em dois campos desafiadores e empolgantes: Inteligência Artificial e Desenvolvimento de Games. Minha jornada como desenvolvedor inclui a busca contínua por novos conhecimentos e melhorias, sempre com o objetivo de me tornar Engenheiro de Software.
+👋 Olá, sou um desenvolvedor com 5 anos de experiência em tecnologia e uma grande paixão por programação. 
+Atualmente, estou focado em dois campos desafiadores e empolgantes: Inteligência Artificial e Desenvolvimento de Games. Minha jornada como desenvolvedor inclui a busca contínua por novos conhecimentos e melhorias, sempre com o objetivo de me tornar Engenheiro de Software.
 
 🎯 Com base em São Paulo, estou sempre aberto a novos desafios, colaborações e oportunidades para criar soluções impactantes. Vamos transformar ideias em realidade!
 <p align="center">
