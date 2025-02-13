@@ -9,7 +9,7 @@
   <a href="https://twitter.com/tvnergal">
     <img align="left" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Twitter_Logo_Blue.png" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="https://www.linkedin.com/in/caio-lima-804b29175/">
+  <a href="https://www.linkedin.com/in/caio-slima/">
     <img align="left" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin" style="vertical-align:top;">
   </a>
   <a href="https://www.twitch.tv/tvnergal/">
@@ -50,7 +50,7 @@ Minha jornada como desenvolvedor inclui a busca contínua por novos conhecimento
 <div display="inline-block">
 
   
-📚 Tutor de Programação na EBAC, Fundador da Mugen Solutions, e Graduado em Análise e Desenvolvimento de Sistemas pela UNICSUL. Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial e Desenvolvimento de Games, com o objetivo de integrar essas áreas ao meu desenvolvimento como Engenheiro de Software;</p>
+📚 Tutor/Mentor de Programação, Co-fundador e Produtor na EpiclootSoftware, e Graduado em Análise e Desenvolvimento de Sistemas pela UNICSUL, Pós-graduando em Engenharia de Software, E Atualmente aprofundando meus conhecimentos em Inteligência Artificial e Desenvolvimento de Games, com o objetivo de integrar essas áreas ao meu desenvolvimento como Engenheiro de Software;</p>
  <p align="left">🎮 Nos meus momentos livres, gosto de codar, estudar coisas novas, jogar e, muito de vez em quando, fazer uma stream.
  <a href="https://www.instagram.com/tvnergal/">Instagram</a> 
  <p align="left">☕ Apaixonado por café, games, e sempre com piadas ruins prontas quando estou perto de pessoas.</p>
