@@ -65,22 +65,3 @@ Sou um desenvolvedor apaixonado por tecnologia, com 6 anos de experiência crian
 <p>
   <a href="https://www.instagram.com/tvnergal/" target="_blank">Instagram</a>
 </p>
-
-<p>
-  <a href="https://www.instagram.com/tvnergal/" target="_blank">
-    <img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-  </a>
-  <a href="https://twitter.com/TvNergal" target="_blank">
-    <img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/caio-slima/" target="_blank">
-    <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nergal-code">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nergal-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nergal-code&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
