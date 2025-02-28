@@ -17,13 +17,11 @@
   </a>
 </div>
 
-
 </br>
-
 
 </br>
  <h3>Engenheiro de Software | Game Developer | Fundador da Epicloot Software</h3>
-Sou um desenvolvedor apaixonado por tecnologia, com 5 anos de experiência criando soluções inovadoras e eficientes. Minha trajetória une engenharia de software, inteligência artificial e desenvolvimento de games, sempre com o objetivo de transformar ideias em produtos impactantes.
+Sou um desenvolvedor apaixonado por tecnologia, com 6 anos de experiência criando soluções inovadoras e eficientes. Minha trajetória une Suporte Técnico, Engenharia de software, Inteligência Artificial e Desenvolvimento de Games, sempre com o objetivo de transformar ideias em produtos impactantes.
 
 🎮 Como fundador da Epicloot Software, atuo na gestão estratégica, desenvolvimento de jogos e estruturação de negócios, consolidando a presença da empresa no mercado. Sou responsável por definir os serviços que prestamos, desenvolver projetos e construir conexões valiosas no setor de games. Além disso, trabalho na presença digital e no site da Epicloot, garantindo que nossa marca e produtos alcancem o público certo.
 
