@@ -29,7 +29,7 @@
 <p>📍 Baseado em São Paulo, divido meu tempo entre a área de tecnologia, o desenvolvimento de games e o MBA em Engenharia de Software, onde estou consolidando meus conhecimentos para integrar gestão, inovação e desenvolvimento de software.</p>
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
+  <img src="https://pa1.aminoapps.com/5979/aa6e2c0324a5a4ff7c47a9bf32a7fbafd240f5c5_hq.gif" width="250">
 </p>
 
 <h3> 🖥️ Tecnologias e Ferramentas:</h3>
