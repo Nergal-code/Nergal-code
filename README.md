@@ -22,11 +22,12 @@
 
 
 </br>
-👋 Olá, sou um desenvolvedor com 5 anos de experiência em tecnologia e uma grande paixão por programação. 
-Atualmente, estou focado em dois campos desafiadores e empolgantes: Inteligência Artificial e Desenvolvimento de Games. 
-Minha jornada como desenvolvedor inclui a busca contínua por novos conhecimentos e melhorias, sempre com o objetivo de Aprender mais tecnologías.
+ <h3>Engenheiro de Software | Game Developer | Fundador da Epicloot Software</h3>
+Sou um desenvolvedor apaixonado por tecnologia, com 5 anos de experiência criando soluções inovadoras e eficientes. Minha trajetória une engenharia de software, inteligência artificial e desenvolvimento de games, sempre com o objetivo de transformar ideias em produtos impactantes.
 
-🎯 Com base em São Paulo, estou sempre aberto a novos desafios, colaborações e oportunidades para criar soluções impactantes. Vamos transformar ideias em realidade!
+🎮 Como fundador da Epicloot Software, atuo na gestão estratégica, desenvolvimento de jogos e estruturação de negócios, consolidando a presença da empresa no mercado. Sou responsável por definir os serviços que prestamos, desenvolver projetos e construir conexões valiosas no setor de games. Além disso, trabalho na presença digital e no site da Epicloot, garantindo que nossa marca e produtos alcancem o público certo.
+
+📍 Baseado em São Paulo, divido meu tempo entre a área de tecnologia, o desenvolvimento de games e o MBA em Engenharia de Software, onde estou consolidando meus conhecimentos para integrar gestão, inovação e desenvolvimento de software.
 <p align="center">
  
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
@@ -42,23 +43,26 @@ Minha jornada como desenvolvedor inclui a busca contínua por novos conhecimento
  
 <h3>🖥️Atualmente aprendendo:</h3> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
-<!-- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title = "Unity"/> -->
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" title = "Unity"/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySql"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
 <p align="left">
 <div display="inline-block">
-
-  
-📚 Tutor/Mentor de Programação, Co-fundador e Produtor na EpiclootSoftware, e Graduado em Análise e Desenvolvimento de Sistemas pela UNICSUL, Pós-graduando em Engenharia de Software, E Atualmente aprofundando meus conhecimentos em Inteligência Artificial e Desenvolvimento de Games, com o objetivo de integrar essas áreas ao meu desenvolvimento como Engenheiro de Software;</p>
- <p align="left">🎮 Nos meus momentos livres, gosto de codar, estudar coisas novas, jogar e, muito de vez em quando, fazer uma stream.
- <a href="https://www.instagram.com/tvnergal/">Instagram</a> 
- <p align="left">☕ Apaixonado por café, games, e sempre com piadas ruins prontas quando estou perto de pessoas.</p>
-</div>
+📚 Fundador da Epicloot Software e Desenvolvedor com 6 anos de experiência em tecnologia.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software.
+🚀 Explorando Inteligência Artificial e Desenvolvimento de Games, unindo inovação, tecnologia e criatividade.</p>
+<p align="left">🎮 Além do Código
+Nos meus momentos livres, gosto de:
+☕ Café forte e código limpo
+📚 Estudar novas tecnologias e tendências do mercado
+🎮 Jogar e explorar diferentes estilos de games
+📢 Ocasionalmente fazer streams e compartilhar conhecimento
+😆 Fazer piadas ruins para manter o clima leve
+<a href="https://www.instagram.com/tvnergal/">Instagram</a> 
 <a href="https://www.instagram.com/tvnergal/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/TvNergal" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/caio-lima-804b29175/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/nergalcode/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://www.linkedin.com/in/caio-slima/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 <p align="center">
 
